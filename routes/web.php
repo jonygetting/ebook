@@ -24,3 +24,4 @@ Route::get('/registrasi', function () {
 Route::get('buku', function () {
     return view('buku');
 });
+
